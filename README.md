@@ -9,16 +9,6 @@ This project analyzes **survey data** on consumer behavior, preferences, and per
 
 ---
 
-## 📚 Table of Contents
-- [Problem Statement](#-problem-statement)
-- [Project Objectives](#-project-objectives)
-- [Steps & Methodology](#-steps--methodology)
-- [Tech Stack](#-tech-stack)
-- [Key Insights](#-key-insights)
-- [Future Enhancements](#-future-enhancements)
-
----
-
 ## 🎯 Project Objectives
 
 ### 1. Demographics & Consumer Profile
