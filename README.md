@@ -67,7 +67,7 @@ This project analyzes **survey data** on consumer behavior, preferences, and per
 
 ---
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - Add a predictive model to forecast potential trial customers.
 - Automate ETL and dashboard refresh.
